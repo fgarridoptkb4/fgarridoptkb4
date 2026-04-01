@@ -1,16 +1,18 @@
-## Hi there 👋
+# Bienvenido a Mi Perfil de GitHub
 
-<!--
-**fgarridoptkb4/fgarridoptkb4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de Mí
+Hola, soy Fernando Garrido Pérez, especialista como DevOps Engineer en SPS. Me apasiona IaC con terraform mayormente en la nybe de AWS
 
-Here are some ideas to get you started:
+## Mi Rol en SPS
+Estoy creando IaC con terraform en la nube de AWS para el cliente Bancoppel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades y Expertise
+Terraform
+AWS
+Jenkins
+
+## Cómo Colaboro
+Me gusta colaborar con mi equipo a forma quese cumplan los requerimientos del cliente y que no haya retrasos.
+
+## Contacto
+Correo Electrónico: fgarridop@spsolutions.com.mx
